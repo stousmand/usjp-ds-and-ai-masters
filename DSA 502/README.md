@@ -19,3 +19,6 @@
 
 ### IDE and helpful tools
 A GUI based tool like [Anaconda Navigator](https://docs.anaconda.com) is the easiest way since all the necessary packages come in one bundle or else you may have to individually setup the Python environment using a `pip`.
+
+Use reference
+- [python 3.9](https://docs.python.org/3.9/)
