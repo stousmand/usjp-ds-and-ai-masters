@@ -7,8 +7,8 @@
 - Exploratory data analysis
 - Text processing with [NLTK](https://www.nltk.org/)
 ### Data Visualization Tools
-- (Matplotlib](https://matplotlib.org/)
-- Pandas
+- [Matplotlib](https://matplotlib.org/)
+- [Pandas](https://pandas.pydata.org/)
 - [Visdom](https://github.com/fossasia/visdom)
 ### Statistic Tools
 - Hypothesis testing using [SciPy](https://scipy.org/) and [StatsModels](https://www.statsmodels.org/stable/index.html)
