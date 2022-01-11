@@ -20,5 +20,8 @@
 ### IDE and helpful tools
 A GUI based tool like [Anaconda Navigator](https://docs.anaconda.com) is the easiest way since all the necessary packages come in one bundle or else you may have to individually setup the Python environment using a `pip`.
 
-Use reference
+### How to run code
+Clone the code to your local computer (or download the source) and open it from Jupyter Notebook in Anaconda Navigator or some other IDE that could execute Jupyter Notebook.
+
+### Use reference
 - [python 3.9](https://docs.python.org/3.9/)
