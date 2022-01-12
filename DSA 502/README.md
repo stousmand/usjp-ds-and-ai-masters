@@ -25,3 +25,4 @@ Clone the code to your local computer (or download the source) and open it from 
 
 ### Use reference
 - [python 3.9](https://docs.python.org/3.9/)
+- [python.org tutorial](https://docs.python.org/3/tutorial/)
