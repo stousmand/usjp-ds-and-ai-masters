@@ -23,7 +23,7 @@ A GUI based tool like [Anaconda Navigator](https://docs.anaconda.com) is the eas
 ### How to run code
 Clone the code to your local computer (or download the source) and open it from Jupyter Notebook in Anaconda Navigator or some other IDE that could execute Jupyter Notebook.
 
-# Lab Sessions
+### Lab Sessions
 Orignal hands on sessions done in lab are under this directory
 
 ### Use reference
